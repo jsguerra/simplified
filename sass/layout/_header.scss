@@ -1,0 +1,22 @@
+.site-header {
+    //background-color: skyblue;
+    padding: 1rem 0;
+}
+
+.site-branding {
+    margin-right: auto;
+}
+
+.site-title {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.site-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
